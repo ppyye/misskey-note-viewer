@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/misskey-note-viewer/static/css/main.ff1b84b8.css",
+    "main.js": "/misskey-note-viewer/static/js/main.95479ca2.js",
+    "static/media/logo.svg": "/misskey-note-viewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/misskey-note-viewer/index.html",
+    "main.ff1b84b8.css.map": "/misskey-note-viewer/static/css/main.ff1b84b8.css.map",
+    "main.95479ca2.js.map": "/misskey-note-viewer/static/js/main.95479ca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1b84b8.css",
+    "static/js/main.95479ca2.js"
+  ]
+}
