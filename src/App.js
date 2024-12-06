@@ -27,7 +27,7 @@ function App() {
 
     return (
         <Center>
-            <Box maxW='lg'>
+            <Box w={['sm', '2xl']} px={3}>
                 <FileUpload onFileParse={handleFileParse} />
                 <DatePicker onDateChange={handleDateChange} date={selectedDate} posts={posts}/>
                 <PostList posts={posts} selectedDate={dayjs(selectedDate).format('YYYY-MM-DD')}/>

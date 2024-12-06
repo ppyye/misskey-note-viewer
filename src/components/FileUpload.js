@@ -26,7 +26,7 @@ function FileUpload({ onFileParse }) {
 
 
     return (
-        <Center my={10} w='lg'>
+        <Center my={5}>
             <Box
                 {...getRootProps()}
                 border="2px dashed"
@@ -37,7 +37,7 @@ function FileUpload({ onFileParse }) {
                 cursor="pointer"
                 bg={fileName ? 'gray.100' : 'white'}
                 _hover={{ bg: 'gray.200' }}
-                w="100%"
+                w='100%'
             >
                 <input {...getInputProps()} />
                 {!fileName ? (
