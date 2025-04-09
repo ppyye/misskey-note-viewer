@@ -77,7 +77,7 @@ export const StyledCalendarWrapper = styled.div`
         background: none;
 
         abbr {
-            color: #bbc2e0;
+            color: #4c598f;  
             font-weight: bold;
         }
     }
